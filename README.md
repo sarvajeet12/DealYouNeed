@@ -128,20 +128,20 @@ DealYouNeed is a Node.js REST API for managing SaaS deals, including deal creati
 
 2. **Install dependencies**
    ```sh
-   npm install
+   npm install or npm install -y
    ```
 
 3. **Set up environment variables**
 
    Create a `.env` file in the root directory:
    ```
-   DATABASE_URI=your_mongodb_connection_string
+   DATABASE_URI=your_mongodb_connection_string  or mongodb+srv://username:password@cluster0.eebb4eo.mongodb.net/
    ADMIN_API_KEY=your_admin_api_key
    ```
 
 4. **Start the server**
    ```sh
-   npm start
+   npm start or node server.js or nodemon server.js
    ```
 
    The server will run on `http://localhost:3000`.
