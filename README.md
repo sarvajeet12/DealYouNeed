@@ -1,4 +1,4 @@
-# DealYouNeed
+# DealYouNeed - Assignment
 
 DealYouNeed is a Node.js REST API for managing SaaS deals, including deal creation, verification, and retrieval. The API supports admin authentication and provides endpoints for filtering and sorting deals.
 
