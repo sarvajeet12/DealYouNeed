@@ -8,7 +8,7 @@ DealYouNeed is a Node.js REST API for managing SaaS deals, including deal creati
 - **Express.js**: Web framework for Node.js
 - **MongoDB**: NoSQL database
 - **Mongoose**: ODM for MongoDB
-- **dotenv**: Environment variable managemen
+- **dotenv**: Environment variable management
 
 ## Dependencies
 
